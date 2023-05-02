@@ -7,6 +7,8 @@ package dayy17_IO;
 
 import java.io.*;
 
+import java.util.*;
+
 public class Pr1_NestedFor6 
 {
 	public static void main(String[] arrs) throws IOException
